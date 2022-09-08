@@ -9,6 +9,7 @@
 📃  I'm currently:
 
 - Developer
+- Hacker
 - Web Designer
 - Youtuber
 ```  
